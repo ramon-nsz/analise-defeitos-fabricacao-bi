@@ -40,6 +40,14 @@ A proposta foi transformar um dataset de defeitos simulados em **insights acion�
 | `repair_action` | Ação corretiva tomada |
 | `repair_cost` | Custo de reparo (moeda local) |
 
+
+---
+
+## 🗂️ Sobre o BI
+
+Print 1 - Dashboard Geral: https://prnt.sc/lQ0iUfGy47cK
+Print 2 - Custos: https://prnt.sc/Jdi89F6JEiy2
+
 ---
 
 ## 📈 Estrutura do Dashboard
